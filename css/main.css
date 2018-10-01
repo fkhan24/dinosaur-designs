@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia, serif;
+  font-family: "Patua One", cursive;
   line-height: 1.5;
 }
 
@@ -30,6 +30,7 @@ ol {
 h2 {
   color: #5d8432;
   font-size: 1.5rem;
+
   text-transform: uppercase;
 }
 
